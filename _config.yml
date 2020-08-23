@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Morteza Banagar"
-  #avatar           : "Photo3.JPG"
+  name             : "Morteza Banagar"
+  avatar           : "profile.png"
   bio              : "Third-Year Ph.D. Student at Virginia Tech, Wireless Communications"
   location         : "Blacksburg, Virginia, USA"
   employer         :
