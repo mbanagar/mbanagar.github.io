@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my personal website!
 
+I am currently a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), USA. In Summer 2020, I was a system engineering intern at [Qualcomm](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Communications Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively. My research interests are UAV communications, channel modeling, stochastic geometry, and wireless communications. 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
