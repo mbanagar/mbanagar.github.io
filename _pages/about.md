@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am currently a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), USA. In Summer 2020, I was a system engineering intern at [Qualcomm Technologies, Inc.](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Communications Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively. My research interests are UAV communications, channel modeling, stochastic geometry, and wireless communications. 
+I am currently a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), USA. In Summer 2020, I was a system engineering intern at [Qualcomm Technologies, Inc.](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Communications Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 Research Interests
 ======
@@ -24,4 +24,4 @@ News
 ======
 
 * [May 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a system engineering intern.
-* [April 2020] Submitted the [journal paper](https://arxiv.org/abs/2004.02771) titled "Impact of UAV Wobbling on the Air-to-Ground Wireless Channel" to *IEEE Transactions on Vehicular Technologies*.
+* [April 2020] [Journal paper](https://arxiv.org/abs/2004.02771) "Impact of UAV Wobbling on the Air-to-Ground Wireless Channel" is submitted to *IEEE Transactions on Vehicular Technologies*.
