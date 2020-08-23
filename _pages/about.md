@@ -21,7 +21,7 @@ Research Interests
 
 
 News
-------
+======
 
 * [May 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a system engineering intern.
 * [April 2020] Submitted the [journal paper](https://arxiv.org/abs/2004.02771) titled "Impact of UAV Wobbling on the Air-to-Ground Wireless Channel" to *IEEE Transactions on Vehicular Technologies*.
