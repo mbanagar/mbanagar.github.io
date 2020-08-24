@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-if author.googlescholar
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-endif
+You can also find all my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1).
 
-{% include base_path %}
+Book Chapters
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[BC1] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Stochastic geometry-based performance analysis of drone cellular networks," in *UAV Communications for 5G and Beyond*, Y. Zeng, I. Guvenc, R. Zhang, G. Geraci, and D. W. Matolak, eds. Wiley, 2020.
+
+Journal Articles
+
+Conference Proceedings
 
 * [2020 July] Journal paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
 * [2020 July] Journal paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
