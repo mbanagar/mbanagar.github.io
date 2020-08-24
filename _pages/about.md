@@ -19,9 +19,13 @@ Research Interests
 3. Stochastic Geometry
 4. Wireless communications
 
-
 News
 ======
-
+* [July 2020] Journal paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
+* [July 2020] Journal paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
 * [May 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a system engineering intern.
 * [April 2020] Journal paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://arxiv.org/abs/2004.02771)" is submitted to *IEEE Transactions on Vehicular Technologies*.
+* [December 2019] Conference paper "[Fundamentals of Drone Cellular Network Analysis under Random Waypoint Mobility Model](https://ieeexplore.ieee.org/abstract/document/9013341)" is published in *IEEE Global Communications Conference (GLOBECOM)*.
+* [December 2019] Conference paper "[3GPP-Inspired Stochastic Geometry-Based Mobility Model for a Drone Cellular Network](https://ieeexplore.ieee.org/abstract/document/9013645)" is published in *IEEE Global Communications Conference (GLOBECOM)*.
+* [May 2016] Conference paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
+* [April 2016] Journal paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
