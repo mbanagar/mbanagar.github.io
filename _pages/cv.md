@@ -12,18 +12,26 @@ You can download my CV ![here](CV_MortezaBanagar.pdf).
 Education
 ======
 **Virginia Tech**, Blacksburg, VA, USA (Spring 2018 -- Present)
+
 *Doctor of Philosophy in Electrical Engineering -- Communication Systems*
-Advisor: Dr. Harpreet S. Dhillon
+
+* Advisor: Dr. Harpreet S. Dhillon
 
 **University of Tehran**, Tehran, Iran (Fall 2012 -- Summer 2014)
+
 *Master of Science in Electrical Engineering -- Communication Systems*
-Advisor: Dr. Behrouz Maham
-Thesis: A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks
+
+* Advisor: Dr. Behrouz Maham
+
+* Thesis: A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks
 
 **University of Tehran**, Tehran, Iran (Fall 2008 -- Summer 2012)
+
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
-Advisor: Dr. Ali Olfat
-Thesis: Carrier and Symbol Synchronization Techniques
+
+* Advisor: Dr. Ali Olfat
+
+* Thesis: Carrier and Symbol Synchronization Techniques
 
 
 Work experience
