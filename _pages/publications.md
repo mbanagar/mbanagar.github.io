@@ -8,12 +8,12 @@ author_profile: true
 You can also find all my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1).
 
 Book Chapters
-======
+---------------------
 
 [BC1] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Stochastic geometry-based performance analysis of drone cellular networks," in *UAV Communications for 5G and Beyond*, Y. Zeng, I. Guvenc, R. Zhang, G. Geraci, and D. W. Matolak, eds. Wiley, 2020.
 
 Journal Articles
----------------
+---------------------
 
 [J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," submitted to *IEEE Transactions on Vehicular Technologies*, April 2020. [[arXiv](https://arxiv.org/abs/2004.02771)]
 
@@ -24,7 +24,7 @@ Journal Articles
 [J1] **M. Banagar**, B. Maham, P. Popovski, and F. Pantisano, "Power distribution of device-to-device communications in underlaid cellular networks," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7383234)] [[arXiv](https://arxiv.org/abs/1511.04754)]
 
 Conference Proceedings
-======
+---------------------
 
 [C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/stochastic-geometry/SRWP-Drones)]
 
