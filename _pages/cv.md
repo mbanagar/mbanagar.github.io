@@ -39,6 +39,9 @@ Work experience
 * Research Assistant (Spring 2018 -- Present)
   * [Virginia Tech](https://vt.edu)
 
+* Research Assistant (Fall 2013 -- Summer 2014)
+  * [University of Tehran](https://ut.ac.ir/en)
+
 * System Engineering Intern (Summer 2020)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
   
