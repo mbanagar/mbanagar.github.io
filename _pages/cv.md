@@ -48,17 +48,8 @@ Skills
 
 * Simulation: Simulink, Multisim
 
-* Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio
-
-Publications
------------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
   
 Teaching
 -----------
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I have served as a teaching assistant for several courses at **Virginia Tech** and **University of Tehran** including "Stochastic Signals and Systems", "Signals and Systems", "Communication Systems I", "Engineering Probability and Statistics", "Electrical Circuits Laboratory", and "Technical English".
