@@ -13,7 +13,7 @@ Book Chapters
 [BC1] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Stochastic geometry-based performance analysis of drone cellular networks," in *UAV Communications for 5G and Beyond*, Y. Zeng, I. Guvenc, R. Zhang, G. Geraci, and D. W. Matolak, eds. Wiley, 2020.
 
 Journal Articles
-======
+=
 
 [J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," submitted to *IEEE Transactions on Vehicular Technologies*, April 2020. [[arXiv](https://arxiv.org/abs/2004.02771)]
 
