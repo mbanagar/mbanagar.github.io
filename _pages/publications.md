@@ -17,7 +17,7 @@ Journal Articles
 
 [J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://arxiv.org/abs/2004.02771)," submitted to *IEEE Transactions on Vehicular Technologies*, April 2020.
 
-[J3] **M. Banagar** and H. S. Dhillon, [Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020.
+[J3] **M. Banagar** and H. S. Dhillon, "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020.
 
 [J2] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020.
 
