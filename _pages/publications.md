@@ -15,22 +15,22 @@ Book Chapters
 Journal Articles
 ======
 
-[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://arxiv.org/abs/2004.02771)," submitted to *IEEE Transactions on Vehicular Technologies*, April 2020.
+[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "[Impact of UAV wobbling on the air-to-ground wireless channel](https://arxiv.org/abs/2004.02771)," submitted to *IEEE Transactions on Vehicular Technologies*, April 2020.
 
-[J3] **M. Banagar** and H. S. Dhillon, "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020.
+[J3] **M. Banagar** and H. S. Dhillon, "[Performance characterization of canonical mobility models in drone cellular networks](https://ieeexplore.ieee.org/abstract/document/9078878)," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020.
 
-[J2] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020.
+[J2] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "[Handover probability in drone cellular networks](https://ieeexplore.ieee.org/abstract/document/9003219)," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020.
 
-[J1] **M. Banagar**, B. Maham, P. Popovski, and F. Pantisano, "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016.
+[J1] **M. Banagar**, B. Maham, P. Popovski, and F. Pantisano, "[Power distribution of device-to-device communications in underlaid cellular networks](https://ieeexplore.ieee.org/abstract/document/7383234)," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016.
 
 Conference Proceedings
 ======
 
-[C5] **M. Banagar** and H. S. Dhillon, "[3GPP-Inspired Stochastic Geometry-Based Mobility Model for a Drone Cellular Network](https://ieeexplore.ieee.org/abstract/document/9013645)," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6.
+[C5] **M. Banagar** and H. S. Dhillon, "[3GPP-inspired stochastic geometry-based mobility model for a drone cellular network](https://ieeexplore.ieee.org/abstract/document/9013645)," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6.
 
-[C4] **M. Banagar** and H. S. Dhillon, "[Fundamentals of Drone Cellular Network Analysis under Random Waypoint Mobility Model](https://ieeexplore.ieee.org/abstract/document/9013341)," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6.
+[C4] **M. Banagar** and H. S. Dhillon, "[Fundamentals of drone cellular network analysis under random waypoint mobility model](https://ieeexplore.ieee.org/abstract/document/9013341)," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6.
 
-[C3] **M. Banagar**, B. Maham, and V. Shah-Mansouri, "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)," in *IEEE International Conference on Communications (ICC) Workshops*, May 2016, pp. 755-759.
+[C3] **M. Banagar**, B. Maham, and V. Shah-Mansouri, "[Bounds on the coverage probability of heterogeneous cellular networks](https://ieeexplore.ieee.org/abstract/document/7503878)," in *IEEE International Conference on Communications (ICC) Workshops*, May 2016, pp. 755-759.
 
 [C2] A. Eshraghi, B. Maham, Z. Han, and **M. Banagar**, "[Efficiency and coverage improvement of active RFID two-hop relay systems](http://ieeexplore.ieee.org/document/6952597)," in *IEEE Wireless Communications and Networking Conference (WCNC)*, April 2014, pp. 2002-2007.
 
