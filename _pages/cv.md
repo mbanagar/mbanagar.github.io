@@ -15,13 +15,13 @@ Education
 
 *Doctor of Philosophy in Electrical Engineering -- Communication Systems*
 
-* Advisor: Dr. Harpreet S. Dhillon
+* Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
 
 **University of Tehran**, Tehran, Iran (Fall 2012 -- Summer 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
 
-* Advisor: Dr. Behrouz Maham
+* Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
 
 * Thesis: A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks
 
@@ -29,7 +29,7 @@ Education
 
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
 
-* Advisor: Dr. Ali Olfat
+* Advisor: [Dr. Ali Olfat](https://ece.ut.ac.ir/en/~aolfat)
 
 * Thesis: Carrier and Symbol Synchronization Techniques
 
