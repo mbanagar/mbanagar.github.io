@@ -24,4 +24,4 @@ News
 ======
 
 * [May 2020] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a system engineering intern.
-* [April 2020] [Journal paper](https://arxiv.org/abs/2004.02771) "Impact of UAV Wobbling on the Air-to-Ground Wireless Channel" is submitted to *IEEE Transactions on Vehicular Technologies*.
+* [April 2020] Journal paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://arxiv.org/abs/2004.02771)" is submitted to *IEEE Transactions on Vehicular Technologies*.
