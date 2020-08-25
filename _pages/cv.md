@@ -47,7 +47,7 @@ Work experience
   
 Skills
 -----------
-* Programming: MATLAB, Python, C++, C#
+* Programming: MATLAB, Python, C, C#
 
 * Simulation: Simulink, Multisim
 
