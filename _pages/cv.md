@@ -13,7 +13,7 @@ Education
 -----------
 **Virginia Tech**, Blacksburg, VA, USA (Spring 2018 -- Present)
 
-*Doctor of Philosophy in Electrical Engineering -- Communication Systems*
+*Doctor of Philosophy in Electrical Engineering*
 
 * Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
 
