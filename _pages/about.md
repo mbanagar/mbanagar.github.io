@@ -17,7 +17,7 @@ Research Interests
 1. UAV Communications
 2. Channel Modeling
 3. Stochastic Geometry
-4. Wireless communications
+4. Wireless Communications
 
 News
 ======
