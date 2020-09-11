@@ -15,18 +15,18 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, to appear. [[arXiv](https://arxiv.org/abs/2004.02771)]
+[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, to appear. [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
 
-[J3] **M. Banagar** and H. S. Dhillon, "Performance characterization of canonical mobility models in drone cellular networks," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9078878)] [[arXiv](https://arxiv.org/abs/1908.05243)] [[Code](https://github.com/stochastic-geometry/Mobility-Drones)] [[Video](https://www.youtube.com/watch?v=2IbM2JXnZus)]
+[J3] **M. Banagar** and H. S. Dhillon, "Performance characterization of canonical mobility models in drone cellular networks," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9078878)] [[arXiv](https://arxiv.org/abs/1908.05243)] [[Code](https://github.com/mbanagar/Mobility-Drones)] [[Video](https://www.youtube.com/watch?v=2IbM2JXnZus)]
 
-[J2] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Handover probability in drone cellular networks," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9003219)] [[arXiv](https://arxiv.org/abs/2002.06493)] [[Code](https://github.com/stochastic-geometry/Handover-Drones)]
+[J2] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Handover probability in drone cellular networks," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9003219)] [[arXiv](https://arxiv.org/abs/2002.06493)] [[Code](https://github.com/mbanagar/Handover-Drones)]
 
 [J1] **M. Banagar**, B. Maham, P. Popovski, and F. Pantisano, "Power distribution of device-to-device communications in underlaid cellular networks," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7383234)] [[arXiv](https://arxiv.org/abs/1511.04754)]
 
 Conference Proceedings
 ---------------------
 
-[C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/stochastic-geometry/SRWP-Drones)]
+[C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/mbanagar/SRWP-Drones)]
 
 [C4] **M. Banagar** and H. S. Dhillon, "3GPP-inspired stochastic geometry-based mobility model for a drone cellular network," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013645)] [[arXiv](https://arxiv.org/abs/1905.00972)]
 
