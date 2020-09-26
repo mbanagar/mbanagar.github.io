@@ -21,7 +21,7 @@ Research Interests
 
 News
 ======
-* [2020 September] Journal paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://arxiv.org/abs/2004.02771)" is accepted for publication in *IEEE Transactions on Vehicular Technology*.
+* [2020 September] Journal paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://ieeexplore.ieee.org/document/9206092)" is accepted for publication in *IEEE Transactions on Vehicular Technology*.
 * [2020 July] Journal paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
 * [2020 July] Journal paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
 * [2020 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a summer system engineering intern.
