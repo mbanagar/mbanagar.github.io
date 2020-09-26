@@ -15,7 +15,7 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, to appear. [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
+[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, to appear. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9206092)] [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
 
 [J3] **M. Banagar** and H. S. Dhillon, "Performance characterization of canonical mobility models in drone cellular networks," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9078878)] [[arXiv](https://arxiv.org/abs/1908.05243)] [[Code](https://github.com/mbanagar/Mobility-Drones)] [[Video](https://www.youtube.com/watch?v=2IbM2JXnZus)]
 
