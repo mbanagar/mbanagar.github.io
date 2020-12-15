@@ -10,7 +10,7 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 Book Chapters
 ---------------------
 
-[BC1] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Stochastic geometry-based performance analysis of drone cellular networks," in *UAV Communications for 5G and Beyond*, Y. Zeng, I. Guvenc, R. Zhang, G. Geraci, and D. W. Matolak, Eds. New York: Wiley, 2020, ch. 9, pp. 233-254.
+[BC1] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Stochastic geometry-based performance analysis of drone cellular networks," in *UAV Communications for 5G and Beyond*, Y. Zeng, I. Guvenc, R. Zhang, G. Geraci, and D. W. Matolak, Eds. New York: Wiley, 2020, ch. 9, pp. 233-254. [[Wiley](https://www.google.com/books/edition/UAV_Communications_for_5G_and_Beyond/u-ANEAAAQBAJ?hl=en&gbpv=1&dq=info:2mdRYC8ElmsJ:scholar.google.com&pg=PA233&printsec=frontcover)]
 
 Journal Articles
 ---------------------
