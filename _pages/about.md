@@ -21,7 +21,7 @@ Research Interests
 
 News
 ======
-* [2020 December] Book chapter "[Stochastic Geometry-Based Performance Analysis of Drone Cellular Networks](https://www.google.com/books/edition/UAV_Communications_for_5G_and_Beyond/u-ANEAAAQBAJ?hl=en&gbpv=1&dq=info:2mdRYC8ElmsJ:scholar.google.com&pg=PA233&printsec=frontcover)" in *UAV Communications for 5G and Beyond* is published by Wiley.
+* [2020 December] Book chapter "[Stochastic Geometry-Based Performance Analysis of Drone Cellular Networks](https://www.google.com/books/edition/UAV_Communications_for_5G_and_Beyond/u-ANEAAAQBAJ?hl=en&gbpv=1&dq=info:2mdRYC8ElmsJ:scholar.google.com&pg=PA233&printsec=frontcover)" in *UAV Communications for 5G and Beyond* is published in Wiley.
 * [2020 September] Journal paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://ieeexplore.ieee.org/abstract/document/9206092)" is published in *IEEE Transactions on Vehicular Technology*.
 * [2020 July] Journal paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
 * [2020 July] Journal paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
