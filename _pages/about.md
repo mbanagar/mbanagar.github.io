@@ -31,4 +31,4 @@ News
 * [2018 January] Joined [Wireless @ Virginia Tech](https://wireless.vt.edu) as a Ph.D. student.
 * [2016 May] Conference paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
 * [2016 April] Journal paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
-* [2014 September] Defended my M.Sc. thesis titled "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks" from [University of Tehran](https://ece.ut.ac.ir/en/communcation)
+* [2014 September] Defended my M.Sc. thesis titled "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks" from [University of Tehran](https://ece.ut.ac.ir/en/communcation).
