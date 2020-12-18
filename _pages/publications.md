@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1).
+
 <span id="badgeCont14"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont14&rid=T-3128-2019"></script></span>
+
 Book Chapters
 ---------------------
 
