@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1) and also my Publons profile at:
+You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1) and also my Publons profile below.
 
 <span id="badgeCont14"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont14&rid=T-3128-2019"></script></span>
 
