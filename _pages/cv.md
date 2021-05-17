@@ -36,6 +36,9 @@ Education
 
 Work experience
 -----------
+* **System Engineering Intern** (Summer 2021)
+  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+
 * **Research Assistant** (Spring 2018 -- Present)
   * [Virginia Tech](https://vt.edu)
 
