@@ -17,6 +17,8 @@ Book Chapters
 Journal Articles
 ---------------------
 
+[J5] **M. Banagar** and H. S. Dhillon, "3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals," submitted to *IEEE Transactions on Wireless Communications*.
+
 [J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 14025-14030, November 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9206092)] [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
 
 [J3] **M. Banagar** and H. S. Dhillon, "Performance characterization of canonical mobility models in drone cellular networks," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9078878)] [[arXiv](https://arxiv.org/abs/1908.05243)] [[Code](https://github.com/mbanagar/Mobility-Drones)] [[Video](https://www.youtube.com/watch?v=2IbM2JXnZus)]
@@ -27,6 +29,8 @@ Journal Articles
 
 Conference Proceedings
 ---------------------
+
+[C6] **M. Banagar** and H. S. Dhillon, "Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs," submitted to *IEEE Global Communications Conference (GLOBECOM)*.
 
 [C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/mbanagar/SRWP-Drones)]
 
