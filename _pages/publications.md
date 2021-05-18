@@ -17,7 +17,7 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J5] **M. Banagar** and H. S. Dhillon, "3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals," submitted to *IEEE Transactions on Wireless Communications*.
+[J5] **M. Banagar** and H. S. Dhillon, "3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals," submitted to *IEEE Transactions on Wireless Communications*. [[arXiv](https://arxiv.org/abs/2105.07055)]
 
 [J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 14025-14030, November 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9206092)] [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
 
