@@ -34,7 +34,7 @@ Conference Proceedings
 
 [C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/mbanagar/SRWP-Drones)]
 
-[C4] **M. Banagar** and H. S. Dhillon, "3GPP-inspired stochastic geometry-based mobility model for a drone cellular network," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013645)] [[arXiv](https://arxiv.org/abs/1905.00972)]
+[C4] **M. Banagar** and H. S. Dhillon, "3GPP-inspired stochastic geometry-based mobility model for a drone cellular network," in *IEEE Global Communications Conference (GLOBECOM)*, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013645)] [[arXiv](https://arxiv.org/abs/1905.00972)] [[Code](https://github.com/mbanagar/3GPP-Mobility-Drones)]
 
 [C3] **M. Banagar**, B. Maham, and V. Shah-Mansouri, "Bounds on the coverage probability of heterogeneous cellular networks," in *IEEE International Conference on Communications (ICC) Workshops*, May 2016, pp. 755-759. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7503878)]
 
