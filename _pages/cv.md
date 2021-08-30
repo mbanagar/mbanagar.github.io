@@ -17,13 +17,15 @@ Education
 
 * Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
 
+* Dissertation: "Drone Cellular Networks: Fundamentals, Modeling, and Analysis"
+
 **University of Tehran**, Tehran, Iran (Fall 2012 -- Summer 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
 
 * Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
 
-* Thesis: A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks
+* Thesis: "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks"
 
 **University of Tehran**, Tehran, Iran (Fall 2008 -- Summer 2012)
 
@@ -31,19 +33,22 @@ Education
 
 * Advisor: [Dr. Ali Olfat](https://ece.ut.ac.ir/en/~aolfat)
 
-* Thesis: Carrier and Symbol Synchronization Techniques
+* Project: "Carrier and Symbol Synchronization Techniques"
 
 
 Work experience
 -----------
-* **System Engineering Intern** (Summer 2021)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
-
 * **Research Assistant** (Spring 2018 -- Present)
   * [Virginia Tech](https://vt.edu)
 
+* **System Engineering Intern** (Summer 2021)
+  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+
 * **System Engineering Intern** (Summer 2020)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+
+* **Teaching Assistant** (Spring 2018 -- Fall 2018)
+  * [Virginia Tech](https://vt.edu)
   
 * **Research Assistant** (Fall 2013 -- Summer 2014)
   * [University of Tehran](https://ut.ac.ir/en)
