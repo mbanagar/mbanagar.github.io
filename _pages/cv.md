@@ -41,10 +41,7 @@ Work experience
 * **Research Assistant** (Spring 2018 -- Present)
   * [Virginia Tech](https://vt.edu)
 
-* **System Engineering Intern** (Summer 2021)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
-
-* **System Engineering Intern** (Summer 2020)
+* **System Engineering Intern** (Summer 2021 and Summer 2020)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
 
 * **Teaching Assistant** (Spring 2018 -- Fall 2018)
