@@ -13,7 +13,6 @@ Welcome to my personal website!
 
 I am currently a Ph.D. candidate in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), working with [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
-</div>
 
 Research Interests
 ======
