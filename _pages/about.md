@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-<p align="justify">
-  
+---  
 Welcome to my personal website!
 
 I am currently a Ph.D. candidate in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), working with [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
@@ -38,4 +36,3 @@ News
 * [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
 * [2016 April] **Journal** paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
 * [2014 September] Defended my **M.Sc. Thesis** titled "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks" from [University of Tehran](https://ece.ut.ac.ir/en/communcation).
-</div>
