@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<align="justify">
+<p align="justify">
   
 Welcome to my personal website!
 
@@ -23,7 +23,6 @@ Research Interests
 
 News
 ======
-<div align="justify">
 * [2021 August] **Conference** paper "Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs" is accepted in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain.
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
 * [2021 May] Passed my **Ph.D. Preliminary Exam**.
