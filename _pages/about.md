@@ -21,7 +21,7 @@ Research Interests
 
 News
 ======
-* [2021 August] **Conference** paper "Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs" is accepted in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain.
+* [2021 August] **Conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://github.com/mbanagar/mbanagar.github.io/blob/788ff51600ae98bc644a22f71d0d8cc30c3d692a/_pages/C3_TwoHop_Backhaul_Drone.pdf)" is accepted in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain.
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
 * [2021 May] Passed my **Ph.D. Preliminary Exam**.
 * [2021 May] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://arxiv.org/abs/2105.07055)" is submited to *IEEE Transactions on Wireless Communications*.
