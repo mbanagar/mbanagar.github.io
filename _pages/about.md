@@ -25,7 +25,7 @@ News
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
 * [2021 May] Passed **Ph.D. Preliminary Exam**.
 * [2021 May] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://arxiv.org/abs/2105.07055)" is submited to *IEEE Transactions on Wireless Communications*.
-* [2020 December] **Book chapter** "[Stochastic Geometry-Based Performance Analysis of Drone Cellular Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119575795.ch9)" in *[UAV Communications for 5G and Beyond](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119575795)* is published in Wiley.
+* [2020 December] **Book chapter** "[Stochastic Geometry-Based Performance Analysis of Drone Cellular Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119575795.ch9)" is published in Wiley for the book *[UAV Communications for 5G and Beyond](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119575795)*.
 * [2020 September] **Journal** paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://ieeexplore.ieee.org/abstract/document/9206092)" is published in *IEEE Transactions on Vehicular Technology*.
 * [2020 July] **Journal** paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
 * [2020 July] **Journal** paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
