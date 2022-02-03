@@ -30,7 +30,7 @@ Journal Articles
 Conference Proceedings
 ---------------------
 
-[C6] **M. Banagar** and H. S. Dhillon, "Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs," in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021, available [here](https://github.com/mbanagar/mbanagar.github.io/blob/788ff51600ae98bc644a22f71d0d8cc30c3d692a/_pages/C3_TwoHop_Backhaul_Drone.pdf). [[Code](https://github.com/mbanagar/TwoHop-Drone)]
+[C6] **M. Banagar** and H. S. Dhillon, "Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs," in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9685132)]. [[Code](https://github.com/mbanagar/TwoHop-Drone)]
 
 [C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, Waikoloa Village, HI, USA, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/mbanagar/SRWP-Drones)]
 
