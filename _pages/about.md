@@ -21,7 +21,7 @@ Research Interests
 
 News
 ======
-* [2022 January] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://arxiv.org/abs/2105.07055)" is accepted for publication in *IEEE Transactions on Wireless Communications*.
+* [2022 January] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is accepted for publication in *IEEE Transactions on Wireless Communications*.
 * [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
 * [2021 May] Passed **Ph.D. Preliminary Exam**.
