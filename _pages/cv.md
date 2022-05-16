@@ -31,7 +31,7 @@ Education
 
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
 
-* Advisor: [Dr. Ali Olfat](https://ece.ut.ac.ir/en/~aolfat)
+* Advisor: [Dr. Ali Olfat](https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
 
 * Project: "Carrier and Symbol Synchronization Techniques"
 
