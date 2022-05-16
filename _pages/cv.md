@@ -41,11 +41,11 @@ Work experience
 * **Senior Engineer** (Summer 2022 -- Present)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
 
-* **Research Assistant** (Spring 2018 -- Spring 2018)
-  * [Virginia Tech](https://vt.edu)
-
 * **System Engineering Intern** (Summer 2021 and Summer 2020)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+
+* **Research Assistant** (Spring 2018 -- Spring 2022)
+  * [Virginia Tech](https://vt.edu)
 
 * **Teaching Assistant** (Spring 2018 -- Fall 2018)
   * [Virginia Tech](https://vt.edu)
