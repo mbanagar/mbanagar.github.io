@@ -9,18 +9,19 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Ph.D. candidate in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), working with [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my Ph.D. in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu), and worked with [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
 ======
-1. UAV Communications
-2. Channel Modeling
-3. Stochastic Geometry
-4. Wireless Communications
+1. Wireless Communications
+2. UAV Communications
+3. Channel Modeling
+4. Stochastic Geometry
 
 News
 ======
+* [2022 May] Submitted **conference** paper "Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links" to *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil.
 * [2022 January] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is accepted for publication in *IEEE Transactions on Wireless Communications*.
 * [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
