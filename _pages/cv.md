@@ -11,7 +11,7 @@ You can download a pdf version of my CV [here](CV_MortezaBanagar.pdf).
 
 Education
 -----------
-**Virginia Tech**, Blacksburg, VA, USA (Spring 2018 -- Present)
+**Virginia Tech**, Blacksburg, VA, USA (Spring 2018 -- Spring 2022)
 
 *Doctor of Philosophy in Electrical Engineering*
 
@@ -38,7 +38,10 @@ Education
 
 Work experience
 -----------
-* **Research Assistant** (Spring 2018 -- Present)
+* **Senior Engineer** (Summer 2022 -- Present)
+  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+
+* **Research Assistant** (Spring 2018 -- Spring 2018)
   * [Virginia Tech](https://vt.edu)
 
 * **System Engineering Intern** (Summer 2021 and Summer 2020)
@@ -52,7 +55,7 @@ Work experience
   
 Skills
 -----------
-* Programming: MATLAB, Python, C, C#
+* Programming: MATLAB, Python, C
 
 * Simulation: Simulink, Multisim
 
