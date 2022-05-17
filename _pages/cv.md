@@ -11,7 +11,7 @@ You can download a pdf version of my CV [here](CV_MortezaBanagar.pdf).
 
 Education
 -----------
-**Virginia Tech**, Blacksburg, VA, USA (Spring 2018 -- Spring 2022)
+**Virginia Tech**, Blacksburg, VA, USA (Jan. 2018 -- May 2022)
 
 *Doctor of Philosophy in Electrical Engineering*
 
@@ -19,7 +19,7 @@ Education
 
 * Dissertation: "Drone Cellular Networks: Fundamentals, Modeling, and Analysis"
 
-**University of Tehran**, Tehran, Iran (Fall 2012 -- Summer 2014)
+**University of Tehran**, Tehran, Iran (Sep. 2012 -- Sep. 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
 
@@ -27,7 +27,7 @@ Education
 
 * Thesis: "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks"
 
-**University of Tehran**, Tehran, Iran (Fall 2008 -- Summer 2012)
+**University of Tehran**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
 
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
 
