@@ -38,19 +38,19 @@ Education
 
 Work experience
 -----------
-* **Senior Engineer** (Summer 2022 -- Present)
+* **Senior Engineer** (May 2022 -- Present)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
 
 * **System Engineering Intern** (Summer 2021 and Summer 2020)
   * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
 
-* **Research Assistant** (Spring 2018 -- Spring 2022)
+* **Research Assistant** (Jan. 2018 -- May 2022)
   * [Virginia Tech](https://vt.edu)
 
-* **Teaching Assistant** (Spring 2018 -- Fall 2018)
+* **Teaching Assistant** (Jan. 2018 -- Dec. 2018)
   * [Virginia Tech](https://vt.edu)
   
-* **Research Assistant** (Fall 2013 -- Summer 2014)
+* **Research Assistant** (Sep. 2013 -- Sep. 2014)
   * [University of Tehran](https://ut.ac.ir/en)
   
 Skills
@@ -63,4 +63,4 @@ Skills
   
 Teaching
 -----------
-I have served as a teaching assistant for several courses at Virginia Tech and University of Tehran including **Stochastic Signals and Systems**, **Signals and Systems**, **Communication Systems I**, **Engineering Probability and Statistics**, **Electrical Circuits Laboratory**, and **Technical English**.
+I have served as a teaching assistant and tutor for several courses at Virginia Tech and University of Tehran including **Stochastic Signals and Systems**, **Signals and Systems**, **Communication Systems I**, **Engineering Probability and Statistics**, **Electrical Circuits Laboratory**, and **Technical English**.
