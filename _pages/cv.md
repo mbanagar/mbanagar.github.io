@@ -25,7 +25,7 @@ Education
 
 * Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
 
-* Thesis: "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks"
+* Thesis: "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](https://thesis2.ut.ac.ir/newthesis/UTCatalog/UTThesis/Forms/ThesisBrief.aspx?thesisID=02f11fe0-df63-4326-856d-182a9f660618)"
 
 **University of Tehran**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
 
