@@ -17,7 +17,7 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J5] **M. Banagar** and H. S. Dhillon, "Fundamentals of wobbling and hardware impairments-aware air-to-ground channel model," submitted to *IEEE Transactions on Wireless Communications*, May 2022. [[arXiv](https://arxiv.org/abs/2205.10957)]
+[J6] **M. Banagar** and H. S. Dhillon, "Fundamentals of wobbling and hardware impairments-aware air-to-ground channel model," submitted to *IEEE Transactions on Wireless Communications*, May 2022. [[arXiv](https://arxiv.org/abs/2205.10957)]
 
 [J5] **M. Banagar** and H. S. Dhillon, "3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals," to appear in *IEEE Transactions on Wireless Communications*. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9712177)] [[arXiv](https://arxiv.org/abs/2105.07055)]
 
