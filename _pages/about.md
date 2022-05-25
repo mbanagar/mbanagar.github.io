@@ -21,6 +21,7 @@ Research Interests
 
 News
 ======
+* [2022 May] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Wireless Communications*.
 * [2022 May] Submitted **conference** paper "Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links" to *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil.
 * [2022 January] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is accepted for publication in *IEEE Transactions on Wireless Communications*.
 * [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
