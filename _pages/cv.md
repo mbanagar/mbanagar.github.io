@@ -44,8 +44,7 @@ Work experience
   
 Skills
 -----------
-* Programming: MATLAB, Python, C
-* Simulation: Simulink, Multisim
+* Programming: MATLAB, Python
 * Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
   
 Teaching
