@@ -15,19 +15,19 @@ Education
 
 *Doctor of Philosophy in Electrical Engineering*
 * Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
-* Dissertation: Drone Cellular Networks: Fundamentals, Modeling, and Analysis
+* Dissertation: [Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)
 
 **University of Tehran**, Tehran, Iran (Sep. 2012 -- Sep. 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
 * Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
-* Thesis: [A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](https://thesis2.ut.ac.ir/newthesis/UTCatalog/UTThesis/Forms/ThesisBrief.aspx?thesisID=02f11fe0-df63-4326-856d-182a9f660618)
+* Thesis: [A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](https://www.linkedin.com/in/mortezabanagar/details/education/119303946/multiple-media-viewer/?treasuryMediaId=1635491391695)
 
 **University of Tehran**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
 
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
 * Advisor: [Dr. Ali Olfat](https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
-* Project: Carrier and Symbol Synchronization Techniques
+* Project: [Carrier and Symbol Synchronization Techniques](https://www.linkedin.com/in/mortezabanagar/details/education/1635491393782/single-media-viewer/)
 
 Work experience
 -----------
