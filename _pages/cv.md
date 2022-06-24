@@ -21,13 +21,13 @@ Education
 
 *Master of Science in Electrical Engineering -- Communication Systems*
 * Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
-* Thesis: [A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](https://www.linkedin.com/in/mortezabanagar/details/education/119303946/multiple-media-viewer/?treasuryMediaId=1635491391695)
+* Thesis: [A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)
 
 **University of Tehran**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
 
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
 * Advisor: [Dr. Ali Olfat](https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
-* Project: [Carrier and Symbol Synchronization Techniques](https://www.linkedin.com/in/mortezabanagar/details/education/1635491393782/single-media-viewer/)
+* Project: [Carrier and Symbol Synchronization Techniques](Morteza_BSc_Project.pdf)
 
 Work experience
 -----------
