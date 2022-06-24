@@ -39,7 +39,7 @@ News
 * [2018 January] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
 * [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
 * [2016 April] **Journal** paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
-* [2014 September] Defended **M.Sc. Thesis** with title "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](https://www.linkedin.com/in/mortezabanagar/details/education/119303946/multiple-media-viewer/?treasuryMediaId=1635491391695)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
+* [2014 September] Defended **M.Sc. Thesis** with title "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
 * [2012 September] Joined [University of Tehran](https://ut.ac.ir/en) as an **M.Sc. Student**.
-* [2012 September] Defended **B.Sc. Project** with title "[Carrier and Symbol Synchronization Techniques](https://www.linkedin.com/in/mortezabanagar/details/education/1635491393782/single-media-viewer/)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
+* [2012 September] Defended **B.Sc. Project** with title "[Carrier and Symbol Synchronization Techniques](Morteza_BSc_Project.pdf)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
 * [2008 September] Joined [University of Tehran](https://ut.ac.ir/en) as a **B.Sc. Student**.
