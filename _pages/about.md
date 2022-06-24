@@ -14,10 +14,11 @@ I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qua
 
 Research Interests
 ======
-1. Wireless Communications
-2. UAV Communications
-3. Channel Modeling
-4. Stochastic Geometry
+1. 5G/NR
+2. Wireless Communications
+3. UAV Communications
+4. Channel Modeling
+5. Stochastic Geometry
 
 News
 ======
