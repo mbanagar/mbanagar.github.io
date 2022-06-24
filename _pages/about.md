@@ -22,7 +22,7 @@ Research Interests
 News
 ======
 * [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
-* [2022 May] Defended **Ph.D. Dissertation** with title "Drone Cellular Networks: Fundamentals, Modeling, and Analysis" from [Virginia Tech](https://vt.edu).
+* [2022 May] Defended **Ph.D. Dissertation** with title "[Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)" from [Virginia Tech](https://vt.edu).
 * [2022 May] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Wireless Communications*.
 * [2022 May] Submitted **conference** paper "Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links" to *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil.
 * [2022 January] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is accepted for publication in *IEEE Transactions on Wireless Communications*.
@@ -39,7 +39,7 @@ News
 * [2018 January] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
 * [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
 * [2016 April] **Journal** paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
-* [2014 September] Defended **M.Sc. Thesis** with title "A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks" from [University of Tehran](https://ut.ac.ir/en).
+* [2014 September] Defended **M.Sc. Thesis** with title "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](https://www.linkedin.com/in/mortezabanagar/details/education/119303946/multiple-media-viewer/?treasuryMediaId=1635491391695)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
 * [2012 September] Joined [University of Tehran](https://ut.ac.ir/en) as an **M.Sc. Student**.
-* [2012 September] Defended **B.Sc. Project** with title "Carrier and Symbol Synchronization Techniques" from [University of Tehran](https://ut.ac.ir/en).
+* [2012 September] Defended **B.Sc. Project** with title "[Carrier and Symbol Synchronization Techniques](https://www.linkedin.com/in/mortezabanagar/details/education/1635491393782/single-media-viewer/)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
 * [2008 September] Joined [University of Tehran](https://ut.ac.ir/en) as a **B.Sc. Student**.
