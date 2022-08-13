@@ -32,7 +32,7 @@ Journal Articles
 Conference Proceedings
 ---------------------
 
-[C7] **M. Banagar** and H. S. Dhillon, "Wobbling and impairments-aware channel model and its implications on high-frequency UAV links," to appear in *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, August 2022.
+[C7] **M. Banagar** and H. S. Dhillon, "Wobbling and impairments-aware channel model and its implications on high-frequency UAV links," in *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, December 2022, pp. 1-6.
 
 [C6] **M. Banagar** and H. S. Dhillon, "Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs," in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9685132)] [[Code](https://github.com/mbanagar/TwoHop-Drones)]
 
