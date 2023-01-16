@@ -22,8 +22,8 @@ Research Interests
 
 News
 ======
+* [2022 December] Presented **conference** paper "[Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links](https://ieeexplore.ieee.org/document/10000688)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Rio de Janeiro, Brazil.
 * [2022 August] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is published in *IEEE Transactions on Wireless Communications*.
-* [2022 August] **Conference** paper "Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links" is accepted for publication in *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil.
 * [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
 * [2022 May] Defended **Ph.D. Dissertation** with title "[Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)" from [Virginia Tech](https://vt.edu).
 * [2022 May] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Wireless Communications*.
