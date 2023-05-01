@@ -15,19 +15,19 @@ Education
 
 *Doctor of Philosophy in Electrical Engineering*
 * Advisor: [Dr. Fatemeh Afghah](https://fafghah.people.clemson.edu/)
-* Dissertation: [Reinforcement Learning Based Dynamic Slicing Over Open RAN] #(https://vtechworks.lib.vt.edu/handle/10919/110919)
+* Dissertation: [Reinforcement Learning Based Dynamic Slicing Over Open RAN] 
 
 **University of Tehran**, Tehran, Iran (Sep. 2010 -- Jun. 2013)
 
 *Master of Science in Electrical Engineering -- Wireless Communication*
-* Advisor: [Dr. Amir Masoud Rabiei] #(https://sites.google.com/site/behrouzmaham/)
-* Thesis: [Efficient Selection of the Best Relay in Dual-Hop Opportunistic Relaying] #(Morteza_MSc_Thesis.pdf)
+* Advisor: [Dr. Amir Masoud Rabiei] 
+* Thesis: [Efficient Selection of the Best Relay in Dual-Hop Opportunistic Relaying] 
 
 **Iran University of Science and Technology, Tehran, Iran**, Tehran, Iran (Sep. 2005 -- Jun. 2009)
 
 *Bachelor of Science in Electrical Engineering -- Telecommunications*
-* Advisor: [Dr. Vahid Tabataba Vakili] #(https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
-* Project: [Performance Analysis of N-MSK Modulation in OFDM Systems] #(Morteza_BSc_Project.pdf)
+* Advisor: [Dr. Vahid Tabataba Vakili] 
+* Project: [Performance Analysis of N-MSK Modulation in OFDM Systems] 
 
 Work experience
 -----------
