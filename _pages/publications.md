@@ -19,6 +19,6 @@ Conference Publications
 
 [3] **F. Lotfi**, O. Semiari, and W. Saad, "Semantic-Aware Collaborative Deep Reinforcement Learning Over Wireless Cellular Networks," in *IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9839122)] 
 
-[C4] **F. Lotfi** and O. Semiari, "Performance Analysis and Optimization of Uplink Cellular Networks with Flexible Frame Structure," in *IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), April 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9448665/)] 
+[4] **F. Lotfi** and O. Semiari, "Performance Analysis and Optimization of Uplink Cellular Networks with Flexible Frame Structure," in *IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), April 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9448665/)] 
 
 
