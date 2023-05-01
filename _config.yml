@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Morteza Banagar / Home"
+title                    : "Fatemeh Lotfi / Home"
 title_separator          : "-"
-name                     : &name "Morteza Banagar"
+name                     : &name "Fatemeh Lotfi"
 description              : &description "personal description"
-url                      : https://mbanagar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://flotfi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mbanagar/mbanagar.github.io"
+repository               : "FLotfiGit/flotfi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Morteza Banagar"
+  name             : "Fatemeh Lotfi"
   avatar           : "Photo7.jpg"
-  bio              : "Qualcomm <br/> Senior Engineer <br/> Ph.D. | Virginia Tech <br/> Electrical Engineering <br/> Wireless Communications"
-  location         : "Blacksburg, Virginia, USA"
+  bio              : "Ph.D. Student | Clemson University <br/> Electrical Engineering <br/> AI in Wireless Communications"
+  location         : "Clemson, SC, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1"
-  email            : "mbanagar@vt.edu"
-  researchgate     : "https://www.researchgate.net/profile/Morteza_Banagar" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=eM8A4qEAAAAJ&hl=en"
+  email            : "flotfi@clemson.edu"
+  researchgate     : "https://www.researchgate.net/profile/Fatemeh-Lotfi-4" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "MorBeh142"
+  facebook         : # "Ftmh Ltf"
   foursquare       :
-  github           : "mbanagar"
+  github           : "FLotfiGit"
   google_plus      :
   keybase          :
-  instagram        : # "MorBeh142"
+  instagram        : # "fatemeh_ltfi"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mortezabanagar"
-  orcid            : "http://orcid.org/0000-0001-5977-9897"
+  linkedin         : "Fatemeh Lotfi"
+  orcid            : #"http://orcid.org/0000-0001-5977-9897"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "MorBeh142"
+  twitter          : # "fatemehlotfi"
   vine             :
   weibo            :
   xing             :
