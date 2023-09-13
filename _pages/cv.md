@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download a pdf version of my CV [here](CV_FatemehLotfi.pdf).
+You can download a pdf version of my CV [here](FatemehLotfi_CV_2023.pdf).
 
 Education
 -----------
