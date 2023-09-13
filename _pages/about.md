@@ -21,6 +21,8 @@ Research Interests
 
 News
 ======
+* [2023 August] Our **conference** paper on "Open RAN LSTM Traffic Prediction and Slice Management using Deep Reinforcement Learning" has been accepted to IEEE Asilomar 2023. 
+* [2023 August] Our **conference** paper on "Attention-based Open RAN Slice Management using Deep Reinforcement Learning" has been accepted to IEEE Globecom 2023. 
 * [2023 March] Passed **Ph.D. Qualification Exam**.
 * [2022 December] Presented **conference** paper "[Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN]((https://ieeexplore.ieee.org/abstract/document/10008614))" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Rio de Janeiro, Brazil.
 * [2022 May] Presented **conference** paper "[Semantic-Aware Collaborative Deep Reinforcement Learning Over Wireless Cellular Networks]((https://ieeexplore.ieee.org/abstract/document/9839122))" virtually in *IEEE International Conference on Communications (ICC)* at Seoul, Korea.
