@@ -49,4 +49,4 @@ Skills
   
 Teaching
 -----------
-I have served as a teaching assistant and tutor for several courses at Virginia Tech and University of Tehran including **Stochastic Signals and Systems**, **Signals and Systems**, **Communication Systems I**, **Engineering Probability and Statistics**, **Electrical Circuits Laboratory**, and **Technical English**.
+I have served as a teaching assistant and tutor for several courses at Virginia Tech and University of Tehran including Stochastic Signals and Systems, Signals and Systems, Communication Systems I, Engineering Probability and Statistics, Electrical Circuits Laboratory, and Technical English.
