@@ -44,6 +44,7 @@ Work experience
   
 Skills
 -----------
+* Technical: 5G Log/IQ Analysis
 * Programming: MATLAB, Python
 * Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
   
