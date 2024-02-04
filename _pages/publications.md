@@ -5,23 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1), <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png">[ORCiD](https://orcid.org/0000-0001-5977-9897), and Clarivate Web of Science below.
+You can find the full list of my papers on <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png">[Google Scholar](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1), <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"> [ORCiD](https://orcid.org/0000-0001-5977-9897), and Clarivate Web of Science below.
 
 <span id="badgeCont14"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont14&rid=T-3128-2019"></script></span>
-
- <a
-  id="cy-effective-orcid-url"
-  class="underline"
-   href="https://orcid.org/0000-0001-5977-9897"
-   target="orcid.widget"
-   rel="me noopener noreferrer"
-   style="vertical-align: top">
-   <img
-      src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-      style="width: 1em; margin-inline-start: 0.5em"
-      alt="ORCID iD icon"/>
-    https://orcid.org/0000-0001-5977-9897
-  </a>
 
 Book Chapters
 ---------------------
