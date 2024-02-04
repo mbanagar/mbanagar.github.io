@@ -7,7 +7,14 @@ redirect_from:
   - /resume
 ---
 
-You can download a pdf version of my CV [here](CV_MortezaBanagar.pdf).
+You can download my CV [here](CV_MortezaBanagar.pdf).
+
+<p style="margin-bottom:0;">
+    test
+</p>
+<p style="margin : 0; padding-top:0;">
+    test
+</p>
 
 Education
 -----------
