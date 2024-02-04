@@ -9,21 +9,13 @@ redirect_from:
 
 You can download my CV [here](CV_MortezaBanagar.pdf).
 
-<p style="margin-bottom:0;">
-    test
-</p>
-<p style="margin : 0; padding-top:0;">
-    test
-</p>
-
 Education
 -----------
-<p style="margin-bottom:0;">
-**Virginia Tech**, Blacksburg, VA, USA (Jan. 2018 -- May 2022)
-</p>
-<p style="margin : 0; padding-top:0;">
+**Virginia Tech**, Blacksburg, VA, USA (Jan. 2018 -- May 2022){
+ margin: 0px;
+}
+
 *Doctor of Philosophy in Electrical Engineering*
-</p>
 * Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
 * Dissertation: [Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)
 
