@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the full list of my papers on <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="16" height="16"> [Google Scholar](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1), <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"> [ORCiD](https://orcid.org/0000-0001-5977-9897), and <img src="https://github.com/mbanagar/mbanagar.github.io/blob/1c4ba99ef4eec77bd919dad95584dd40dd2dad9f/images/CLVT.png" width="16" height="16"> [Clarivate Web of Science](https://www.webofscience.com/wos/author/record/16044?utm_campaign=researcher_id_badge).
+You can find the full list of my papers on <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="16" height="16"> [Google Scholar](https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1), <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"> [ORCiD](https://orcid.org/0000-0001-5977-9897), and <img src="https://companieslogo.com/img/orig/CLVT-be02c47f.png" width="16" height="16"> [Clarivate Web of Science](https://www.webofscience.com/wos/author/record/16044?utm_campaign=researcher_id_badge).
 
 Book Chapters
 ---------------------
