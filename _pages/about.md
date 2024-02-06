@@ -9,24 +9,24 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working under [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546)'s lead. I received my Ph.D. in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). In Summers 2021 and 2020, I was a system engineering intern at [Qualcomm Technologies, Inc](https://www.qualcomm.com). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working with [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546) and [Jianming Zhu](https://www.linkedin.com/in/jianming-zhu-95228b61/). I received my Ph.D. from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
 ======
 1. 5G NR
-2. Wireless Communications
-3. UAV Communications
-4. Stochastic Geometry
-5. Channel Modeling
+2. Channel Modeling
+3. Wireless Communications
+4. UAV Communications
+5. Stochastic Geometry
 
 News
 ======
+* [2023 August] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Vehicular Technology*.
 * [2022 December] Presented **conference** paper "[Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links](https://ieeexplore.ieee.org/document/10000688)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Rio de Janeiro, Brazil.
 * [2022 August] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is published in *IEEE Transactions on Wireless Communications*.
 * [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
 * [2022 May] Defended **Ph.D. Dissertation** with title "[Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)" from [Virginia Tech](https://vt.edu).
-* [2022 May] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Wireless Communications*.
 * [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
 * [2021 May] Passed **Ph.D. Preliminary Exam**.
