@@ -15,7 +15,7 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J6] **M. Banagar** and H. S. Dhillon, "Fundamentals of wobbling and hardware impairments-aware air-to-ground channel model," *IEEE Transactions on Vehicular Technology*, to appear. [[arXiv](https://arxiv.org/abs/2205.10957)] [[Code](https://github.com/mbanagar/Wobbling-HI-Drones)]
+[J6] **M. Banagar** and H. S. Dhillon, "Fundamentals of wobbling and hardware impairments-aware air-to-ground channel model," *IEEE Transactions on Vehicular Technology*, to appear. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10618887)] [[arXiv](https://arxiv.org/abs/2205.10957)] [[Code](https://github.com/mbanagar/Wobbling-HI-Drones)]
 
 [J5] **M. Banagar** and H. S. Dhillon, "3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals," *IEEE Transactions on Wireless Communications*, vol. 21, no. 8, pp. 6417-6433, August 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9712177)] [[arXiv](https://arxiv.org/abs/2105.07055)] [[Code](https://github.com/mbanagar/3D-TwoHop-Drones)]
 
