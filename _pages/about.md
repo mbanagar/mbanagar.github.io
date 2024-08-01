@@ -14,7 +14,7 @@ I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qua
 
 Research Interests
 ======
-1. Physical layer of 5G NR
+1. Physical Layer of 5G NR
 2. Wireless Channel Modeling
 3. UAV Communications and NTNs
 4. Random Processes and Stochastic Geometry
