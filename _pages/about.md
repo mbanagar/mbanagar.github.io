@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working with [Enoch Lu](https://www.linkedin.com/in/enoch-lu-17a70546) and [Jianming Zhu](https://www.linkedin.com/in/jianming-zhu-95228b61/). I received my Ph.D. from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working on Cellular 5G Modem Timeline analysis with [Linda Bai](https://ieeexplore.ieee.org/author/37851034400) and [Alireza Sani](https://www.linkedin.com/in/alireza-sani-a805b87b/). I received my Ph.D. from the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
@@ -21,7 +21,7 @@ Research Interests
 
 News
 ======
-* [2024 June] **Journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://ieeexplore.ieee.org/document/10618887)" accepted for publication in *IEEE Transactions on Vehicular Technology*.
+* [2024 December] **Journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://ieeexplore.ieee.org/document/10618887)" is published in *IEEE Transactions on Vehicular Technology*.
 * [2022 December] Presented **conference** paper "[Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links](https://ieeexplore.ieee.org/document/10000688)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Rio de Janeiro, Brazil.
 * [2022 August] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is published in *IEEE Transactions on Wireless Communications*.
 * [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
