@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working on Cellular 5G Modem Timeline analysis with [Marc Werner](https://www.linkedin.com/in/marc-werner-6ba57427/), [Linda Bai](https://ieeexplore.ieee.org/author/37851034400), and [Alireza Sani](https://www.linkedin.com/in/alireza-sani-a805b87b/). I received my Ph.D. in Electrical Engineering from [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a system engineering intern at Qualcomm working with [Christos Komninakis](https://www.linkedin.com/in/christos-komninakis-2578648/) and [Robert Wilson](https://www.linkedin.com/in/robdwilson/), respectively. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently a Senior Engineer at [Qualcomm Technologies, Inc](https://www.qualcomm.com) working on 5G NR Modem Timeline Analysis with [Marc Werner](https://www.linkedin.com/in/marc-werner-6ba57427/). I received my Ph.D. in Electrical Engineering from [Virginia Tech](https://vt.edu) under the supervision of [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu). During the summers of 2020 and 2021, I was a systems engineering intern at Qualcomm. I received my B.Sc. and M.Sc. degrees in Electrical Engineering from [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
@@ -22,9 +22,10 @@ Research Interests
 News
 ======
 * [2024 December] **Journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://ieeexplore.ieee.org/document/10618887)" is published in *IEEE Transactions on Vehicular Technology*.
+* [2024 February] Joined the 5G NR Modem Timeline Analysis team at Qualcomm.
 * [2022 December] Presented **conference** paper "[Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links](https://ieeexplore.ieee.org/document/10000688)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Rio de Janeiro, Brazil.
 * [2022 August] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is published in *IEEE Transactions on Wireless Communications*.
-* [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
+* [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer** in 5G NR Modem UL Systems team.
 * [2022 May] Defended **Ph.D. Dissertation** with title "[Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)" from [Virginia Tech](https://vt.edu).
 * [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
 * [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
