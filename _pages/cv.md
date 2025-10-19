@@ -7,7 +7,24 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV [here](CV_MortezaBanagar.pdf).
+You can download my full CV [here](CV_10_19_2025.pdf).
+
+Work experience
+-----------
+* **Senior Engineer** (May 2022 -- Present)
+  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+* **System Engineering Intern** (Summer 2021 and Summer 2020)
+  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
+* **Research Assistant** (Jan. 2018 -- May 2022)
+  * [Virginia Tech](https://vt.edu)
+* **Teaching Assistant** (Jan. 2018 -- Dec. 2018)
+  * [Virginia Tech](https://vt.edu)
+* **Research Assistant** (Sep. 2013 -- Sep. 2014)
+  * [University of Tehran](https://ut.ac.ir/en)
+  
+Skills
+-----------
+* Python • MATLAB • Git • LaTeX • 5G NR Proprietary Log/IQ Analysis
 
 Education
 -----------
@@ -29,23 +46,6 @@ Education
 * Advisor: [Dr. Ali Olfat](https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
 * Project: [Carrier and Symbol Synchronization Techniques](Morteza_BSc_Project.pdf)
 
-Work experience
------------
-* **Senior Engineer** (May 2022 -- Present)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
-* **System Engineering Intern** (Summer 2021 and Summer 2020)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
-* **Research Assistant** (Jan. 2018 -- May 2022)
-  * [Virginia Tech](https://vt.edu)
-* **Teaching Assistant** (Jan. 2018 -- Dec. 2018)
-  * [Virginia Tech](https://vt.edu)
-* **Research Assistant** (Sep. 2013 -- Sep. 2014)
-  * [University of Tehran](https://ut.ac.ir/en)
-  
-Skills
------------
-* Python • MATLAB • Git • 5G Log/IQ Analysis • LaTeX
-  
 Teaching
 -----------
 I have served as a teaching assistant and tutor for several courses at Virginia Tech and the University of Tehran, including Stochastic Processes, Signals and Systems, Communication Systems I/II, Engineering Probability and Statistics, and Electrical Circuits.
