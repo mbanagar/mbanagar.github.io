@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](CV_MortezaBanagar.pdf).
+You can download my full CV [here](CV_MortezaBanagar.pdf).
 
 Education
 -----------
@@ -44,10 +44,8 @@ Work experience
   
 Skills
 -----------
-* Technical: 5G Log/IQ Analysis
-* Programming: MATLAB, Python
-* Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
+* Python • MATLAB • Git • 5G Log/IQ Analysis • LaTeX
   
 Teaching
 -----------
-I have served as a teaching assistant and tutor for several courses at Virginia Tech and University of Tehran including Stochastic Signals and Systems, Signals and Systems, Communication Systems I, Engineering Probability and Statistics, Electrical Circuits Laboratory, and Technical English.
+I have served as a teaching assistant and tutor for several courses at Virginia Tech and the University of Tehran, including Stochastic Processes, Signals and Systems, Communication Systems I/II, Engineering Probability and Statistics, and Electrical Circuits.
